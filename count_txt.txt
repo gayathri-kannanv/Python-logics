@@ -1,0 +1,9 @@
+Python Programming
+
+Hello everyone,
+Python is a scripting language. A scripting or script language is a programming language 
+for a special run-time environment that automates the execution of tasks; the tasks could
+ alternatively be executed one-by-one by a human operator. 
+ 
+Python is an easy to learn and a powerful language which is capable of performing complicated
+ tasks with few lines of code.
